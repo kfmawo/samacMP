@@ -1,0 +1,77 @@
+<!--pages/home/home.wxml-->
+<!-- <text>pages/home/home.wxml</text> -->
+
+<!-- http://www.samac.com.cn/MP/images/miniHome/factory1.jpg
+http://www.samac.com.cn/MP/images/miniHome/factory2.jpg
+http://www.samac.com.cn/MP/images/miniHome/factory3.jpg
+http://www.samac.com.cn/MP/images/miniHome/whoWeAre.jpg -->
+
+<view class="container">
+  <view class="styledBox">
+    <view class="redBox"></view>
+    <view class="heading">Who we are</view>
+  </view>
+  <image class="item" src="http://www.samac.com.cn/MP/images/miniHome/whoWeAre.jpg" mode="widthFix"></image>
+
+  <view class="content">We were born and raised in Brescia Italy, a territory that represents the most industrialized province in Europe. This has allowed us, and still allows us, to evolve in a competitive and constantly innovative environment, through relationships with partners and ethically sustainable supply chains, partnerships with technical institutes and university organisations, with which to develop training and innovation in a territory to be exported to the world.”
+  
+  </view>
+
+  <view class="styledBox">
+    <view class="redBox"></view>
+    <view class="heading">Our Story</view>
+    
+  </view>
+  <video src="https://desnode.co/videos/CPEpromo.mp4"></video>
+
+  <view class="styledBox">
+    <view class="redBox"></view>
+    <view class="heading">Italy Headquarters</view>
+    
+  </view>
+
+  <view>SAMAC offers customized solutions for assembly and testing processes. We have experience in applications in various sectors for more than 45 years, especially in automotive, home automation and automatic valves. We were born in 1975 as a small manufacturing company, growth has been unstoppable. At the moment the workforce is made up of about 100 internal and external people, which we employ in peak production periods. Our headquarters are in Vobarno, in the province of Brescia (Italy), where year after year the plant has considerably expanded, reaching today 11,000 square meters. We have been ISO 9001 certified for quality since 2003 and in 2020 we have obtained ISO 14001 for the environment and ISO 45001 for safety.
+  Over the years we have installed more than 1000 lines around the world, including smaller benches, robot islands, pallet lines, and rotary tables. We are mainly focused on the European and Italian markets, with many important customers in Germany, France, and Poland, but we have also managed to expand the business in the United States and China. In 2021, we opened a new production plant in China, which is located in the innovation Industry Park of Changzhou city, Jiangsu province. Our economic growth of the past 15 years. In 2020 we achieved a turnover of 22 million euros.
+  </view>
+  <view class="styledBox">
+    <view class="redBox"></view>
+    <view class="heading">Chinese Plant</view>
+  </view>
+
+  <image src="http://www.samac.com.cn/MP/images/miniHome/factory1.jpg" mode="widthFix"></image>
+  <image src="http://www.samac.com.cn/MP/images/miniHome/factory2.jpg" mode="widthFix"></image>
+  <image src="http://www.samac.com.cn/MP/images/miniHome/factory3.jpg" mode="widthFix"></image>
+
+
+
+  <view class="footer">
+
+    <image src="http://www.samac.com.cn/MP/images/miniHome/WhiteLogo.png" mode="widthFix" class="footerLogo"></image>
+    <view class="footerContainer">
+      
+      <view class="footerBlock">
+        <view class="footerHeading">Italy Headquarters </view>
+        <view>Tel/ Fax +39 0365 597757</view>
+        <view>e-mail samac@samac.it</view>
+        <view>SAMAC S.P.A.</view>
+        <view>UnipersonaleVia della Ferriera</view>
+        <view>n. 3425079 Vobarno (BS).P.IVA IT00586250227C.F. 00892680174PEC:</view>
+        <view>samacspa@legalmail.it</view>
+      </view>
+
+      
+      <view class="footerBlock">
+        <view class="footerHeading">China Factory</view>
+        <view>电话 +86 051982308010</view>
+        <view>传真 info@samac.it</view>
+        <view>常州萨玛克自动化制造有限公司</view>
+        <view>常州市金坛经济开发区华城路222号</view>
+        <view>Chang Zhou Samac Automation Manufacturing Co., Ltd</view>
+        <view>No 222 Hua Cheng Road Changzhou, China</view>
+      </view>
+    </view>
+
+
+  </view>
+
+</view> 

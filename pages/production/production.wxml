@@ -1,0 +1,11 @@
+<!--pages/production/production.wxml-->
+<!-- <text>pages/production/production.wxml</text> -->
+
+<view class="productionContainer">
+  <view class="item" >Consumer Goods</view>
+  <view class="item">Automotive</view>
+  <view class="item">Electro-mechanical components</view>
+  <view class="item">Hydraulics & Oleodynamics</view>
+  <view class="item">Home Appliances</view>
+  <view class="item">Other</view>
+</view>

@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/production/production",
+    "pages/service/service",
+    "pages/contact/contact"
+   
+  ],"tabBar": {
+    "selectedColor": "#C3271A",
+    "backgroundColor": "#ffffff",
+    "list": [{
+      "pagePath": "pages/home/home",
+      "text": "Home",
+      "iconPath": "/images/tabs/home.png",
+      "selectedIconPath": "/images/tabs/homeFill.png"
+    }, {
+      "pagePath": "pages/production/production",
+      "text": "Production",
+      "iconPath": "/images/tabs/production.png",
+      "selectedIconPath": "/images/tabs/productionFill.png"
+    }, 
+    {
+      "pagePath": "pages/service/service",
+      "text": "Service",
+      "iconPath": "/images/tabs/service.png",
+      "selectedIconPath": "/images/tabs/serviceFill.png"
+    }, {
+      "pagePath": "pages/contact/contact",
+      "text": "Contact",
+      "iconPath": "/images/tabs/contact.png",
+      "selectedIconPath": "/images/tabs/contactFill.png"
+    }]
+  },
+  "usingComponents": {},
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#C3271A",
+    "navigationBarTitleText": "Samac 萨玛克",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#ffffff"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

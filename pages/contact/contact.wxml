@@ -1,0 +1,32 @@
+<view class="container">
+  <form catchsubmit="formSubmit" catchreset="formReset">
+    <view class="inputSection">
+      <view>
+
+        <label>First Name</label>
+        <input placeholder="Enter first name" />
+      </view>
+      <view>
+        <label>Last Name</label>
+        <input placeholder="Enter last name" />
+      </view>
+      <view>
+        <label>Company</label>
+        <input placeholder="Company name" />
+      </view>
+
+      <view>
+        <label>Email</label>
+        <input placeholder="Email address" />
+      </view>
+
+      <view>
+        <label>More details</label>
+        <textarea placeholder="Please provide additional information"></textarea>
+      </view>
+    </view>
+    <button type="primary" formType="submit">Submit</button>
+
+  </form>
+
+</view>

@@ -1,0 +1,49 @@
+/* pages/production/production.wxss */
+.productionContainer view{
+  width: 100vw;
+  height: 80vw;
+  text-align: center;
+  /* justify-content: center; */
+  line-height: 150px;
+  /* color: white; */
+}
+
+.productionContainer .item{
+  /* color: white; */
+  /* display: flex;
+  align-self: center;
+  justify-self: center; */
+  background-repeat: no-repeat;
+  background-size:100vw;
+}
+
+.productionContainer view:nth-child(1){
+  background-color: aliceblue;
+  background-image: url("http://www.samac.com.cn/MP/images/miniProduction/ConsumerGoods.jpg");
+  /* background-position-y: 0vmax; */
+  
+
+}
+.productionContainer view:nth-child(2){
+  background-color: aqua;
+  background-image: url("http://www.samac.com.cn/MP/images/miniProduction/Automotive.jpg");
+}
+.productionContainer view:nth-child(3){
+  background-color: brown;
+  background-image: url("http://www.samac.com.cn/MP/images/miniProduction/Electromechanical.jpg");
+}
+.productionContainer view:nth-child(4){
+  background-color: cyan;
+  background-image: url("http://www.samac.com.cn/MP/images/miniProduction/Hydraulics.jpg");
+}
+.productionContainer view:nth-child(5){
+  background-color: firebrick;
+  background-image: url("http://www.samac.com.cn/MP/images/miniProduction/HomeAppliances.jpg");
+}
+
+.productionContainer view:nth-child(6){
+  background-color: firebrick;
+  background-image: url("http://www.samac.com.cn/MP/images/miniProduction/Other.jpg");
+}
+
+

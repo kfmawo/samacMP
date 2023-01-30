@@ -1,0 +1,30 @@
+/* pages/contact/contact.wxss */
+
+.container{
+  margin: 0;
+}
+
+form .inputSection{
+  
+  padding: 20rpx;
+  margin: 0 0 40rpx 0;
+}
+
+form input{
+  margin: 10rpx 0;
+  border-bottom: 0.5px solid #C3271A;
+}
+
+form view{
+  margin: 20rpx 0 40rpx 0;
+}
+
+form textarea{
+  margin: 10rpx 0;
+  border: 1rpx solid #C3271A;
+  padding: 5rpx 0 5rpx 0;
+}
+
+button{
+  color: #C3271A;
+}
