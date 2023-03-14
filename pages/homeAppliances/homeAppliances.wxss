@@ -1,0 +1,58 @@
+/* pages/homeAppliances/homeAppliances.wxss */
+
+/* pages/hydraulics/hydraulics.wxss */
+
+/* pages/electro/electro.wxss */
+
+/* pages/automotive/automotive.wxss */
+
+/* pages/consumer/consumer.wxss */
+
+
+.container{
+  /* background-color: yellow; */
+  width: 90vw;
+  padding: 0;
+  margin: 0 auto;
+  
+  
+  /* width: 95vw; */
+  /* color: white; */
+}
+
+.styledBox{
+  width: inherit;
+  display: flex;
+  /* background-color: yellow; */
+  flex-direction: start;
+  justify-content: start;
+  
+}
+
+.styledBox view{
+  
+  margin: 40rpx 10rpx 40rpx 0rpx;
+}
+
+.redBox{
+  height: inherit;
+  width: 10rpx;
+  background-color: #C3271A;
+}
+
+view{
+  /* background-color: teal; */
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  line-height: 60rpx;
+  
+}
+
+image{
+  padding-top: 20rpx;
+}
+
+.content{
+  padding-bottom: 40rpx;
+}

@@ -2,10 +2,27 @@
 <!-- <text>pages/production/production.wxml</text> -->
 
 <view class="productionContainer">
-  <view class="item" >Consumer Goods</view>
-  <view class="item">Automotive</view>
-  <view class="item">Electro-mechanical components</view>
-  <view class="item">Hydraulics & Oleodynamics</view>
-  <view class="item">Home Appliances</view>
-  <view class="item">Other</view>
+  <navigator url="/pages/consumer/consumer" open-type="navigate">
+    <view class="item" id="consumerGoods">Consumer Goods</view>
+  </navigator>
+
+  <navigator url="/pages/automotive/automotive" open-type="navigate">
+  <view class="item" id="automotive">Automotive</view>
+  </navigator>
+
+  <navigator url="/pages/electro/electro" open-type="navigate">
+  <view class="item" id="electro">Electro-mechanical components</view>
+</navigator>
+
+<navigator url="/pages/hydraulics/hydraulics" open-type="navigate">
+  <view class="item" id="hydraulics">Hydraulics & Oleodynamics</view>
+</navigator>
+
+<navigator url="/pages/homeAppliances/homeAppliances" open-type="navigate">
+  <view class="item" id="homeApp">Home Appliances</view>
+</navigator>
+
+<!-- <navigator url="/pages/other/other" open-type="navigate">
+  <view class="item" id="other">Other</view>
+</navigator> -->
 </view>

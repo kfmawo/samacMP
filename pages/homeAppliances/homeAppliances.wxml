@@ -1,0 +1,27 @@
+<!--pages/homeAppliances/homeAppliances.wxml-->
+<!-- <text>pages/homeAppliances/homeAppliances.wxml</text> -->
+
+<!--pages/hydraulics/hydraulics.wxml-->
+<!-- <text>pages/hydraulics/hydraulics.wxml</text> -->
+
+<!--pages/electro/electro.wxml-->
+<!-- <text>pages/electro/electro.wxml</text> -->
+
+<view class="container">
+  <image class="item" src="https://samac-media.oss-cn-hangzhou.aliyuncs.com/HomeAppliances.jpg" mode="widthFix"></image>
+
+  <view class="styledBox">
+    <view class="redBox"></view>
+    
+    <view class="heading">Home Appliances</view>
+  </view>
+
+  <view class="content">
+    
+  
+The space we live in becomes more and more connected to improve our comfort and safety, without forgetting the challenge of energy efficiency. Samac plants assemble and test products that revolutionize everyday life and that will change our idea of comfort.
+  
+</view>
+  
+  
+</view>

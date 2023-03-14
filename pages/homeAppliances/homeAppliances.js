@@ -1,34 +1,18 @@
-// pages/service/service.js
+// pages/homeAppliances/homeAppliances.js
 Page({
 
   /**
    * Page initial data
    */
   data: {
-    swiperList: [],
-  },
 
-  getSwiperLst(){
-    wx.request({
-      url: 'https://samac.com.cn/MP/service.json',
-      method: 'GET',
-      success: (res) => {
-        // console.log(res.data[0].image)
-        // console.log(res.data)
-        this.setData({
-          swiperList: res.data,
-          
-        })
-        // console.log(swiperList)
-      }
-    })
   },
 
   /**
    * Lifecycle function--Called when page load
    */
   onLoad: function (options) {
-    this.getSwiperLst()
+
   },
 
   /**

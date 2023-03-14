@@ -1,5 +1,37 @@
 <!--pages/service/service.wxml-->
-<text>pages/service/service.wxml</text>
+<!-- <text>pages/service/service.wxml</text>
 <view class="container">
   
+</view> -->
+
+<view class="mainContainer">
+
+  <swiper indicator-dots="true" indicator-active-color="white">
+    <swiper-item wx:for="{{swiperList}}" wx:key="id">
+      <image src="{{item.image}}" mode="widthFix"></image>
+    </swiper-item>
+  </swiper>
+
+  <view class="container">
+    <view class="styledBox">
+      <view class="redBox"></view>
+  
+      <view class="heading">If you're experiencing some issues, please upload images of the product, and code on the
+        machine.</view>
+    </view>
+  
+    <form catchsubmit="formSubmit" catchreset="formReset">
+      <view class="inputSection">
+        <image id="add" src="https://samac-media.oss-cn-hangzhou.aliyuncs.com/MPServices/plus.svg" mode="heightFix"></image>
+      </view>
+      <view>
+        <label>Comments</label>
+        <textarea placeholder="Enter here"></textarea>
+      </view>
+      <button type="primary" formType="submit">Upload</button>
+    </form>
+  </view>
+
+    
+
 </view>

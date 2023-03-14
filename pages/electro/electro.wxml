@@ -1,0 +1,19 @@
+<!--pages/electro/electro.wxml-->
+<!-- <text>pages/electro/electro.wxml</text> -->
+
+<view class="container">
+  <image class="item" src="https://samac.com.cn/MP/production/automotiveMP.jpeg" mode="widthFix"></image>
+
+  <view class="styledBox">
+    <view class="redBox"></view>
+    
+    <view class="heading">Electromechanical and White Goods components</view>
+  </view>
+
+  <view class="content">
+    Electromechanical components, emerging from the fusion of mechanics and electrotechnics, are the basis of the operation of the fundamental technical sectors of modern life: transport, industrial automation, and household appliances. Over the years, Samac has acquired technical skills within these industries, designing and building various assembly systems for components such as motors for washing machines and dishwashers, pressure switches, thermostats, etc.
+  
+</view>
+  
+  
+</view>

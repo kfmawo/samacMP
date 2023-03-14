@@ -12,7 +12,8 @@ form .inputSection{
 
 form input{
   margin: 10rpx 0;
-  border-bottom: 0.5px solid #C3271A;
+  border-bottom: 0.5px solid #eaeaea;
+  /* border-bottom: 0.5px solid #C3271A; */
 }
 
 form view{
@@ -21,10 +22,61 @@ form view{
 
 form textarea{
   margin: 10rpx 0;
-  border: 1rpx solid #C3271A;
+  border: 1rpx solid #eaeaea;
   padding: 5rpx 0 5rpx 0;
 }
 
 button{
-  color: #C3271A;
+  /* background-color: #C3271A; */
+  margin-bottom: 40rpx;
+  /* width: 100%; */
+}
+
+
+.styledBox{
+  width: inherit;
+  display: flex;
+  /* background-color: yellow; */
+  flex-direction: start;
+  justify-content: start;
+  
+}
+
+.styledBox view{
+  
+  margin: 40rpx 10rpx 40rpx 0rpx;
+}
+
+.redBox{
+  height: inherit;
+  width: 10rpx;
+  background-color: #C3271A;
+}
+
+view{
+  /* background-color: teal; */
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  line-height: 60rpx;
+  
+}
+
+.container{
+  /* background-color: yellow; */
+  width: 90vw;
+  padding: 0;
+  margin: 0 auto;
+  
+  
+  /* width: 95vw; */
+  /* color: white; */
+}
+
+.heading{
+  
+  /* width: 200px; */
+  /* background-color: #C3271A; */
+  font-size: 40rpx;
+  font-weight: 550;
 }

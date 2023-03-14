@@ -9,9 +9,11 @@ http://www.samac.com.cn/MP/images/miniHome/whoWeAre.jpg -->
 <view class="container">
   <view class="styledBox">
     <view class="redBox"></view>
+    
     <view class="heading">Who we are</view>
   </view>
-  <image class="item" src="http://www.samac.com.cn/MP/images/miniHome/whoWeAre.jpg" mode="widthFix"></image>
+  
+  <image class="item" src="https://samac-media.oss-cn-hangzhou.aliyuncs.com/MPhome/whoWeAre.jpg" mode="widthFix"></image>
 
   <view class="content">We were born and raised in Brescia Italy, a territory that represents the most industrialized province in Europe. This has allowed us, and still allows us, to evolve in a competitive and constantly innovative environment, through relationships with partners and ethically sustainable supply chains, partnerships with technical institutes and university organisations, with which to develop training and innovation in a territory to be exported to the world.”
   
@@ -22,7 +24,7 @@ http://www.samac.com.cn/MP/images/miniHome/whoWeAre.jpg -->
     <view class="heading">Our Story</view>
     
   </view>
-  <video src="https://desnode.co/videos/CPEpromo.mp4"></video>
+  <video src="https://samac-media.oss-cn-hangzhou.aliyuncs.com/Video%20corporate%20cmp.mp4"></video>
 
   <view class="styledBox">
     <view class="redBox"></view>
@@ -38,15 +40,15 @@ http://www.samac.com.cn/MP/images/miniHome/whoWeAre.jpg -->
     <view class="heading">Chinese Plant</view>
   </view>
 
-  <image src="http://www.samac.com.cn/MP/images/miniHome/factory1.jpg" mode="widthFix"></image>
-  <image src="http://www.samac.com.cn/MP/images/miniHome/factory2.jpg" mode="widthFix"></image>
-  <image src="http://www.samac.com.cn/MP/images/miniHome/factory3.jpg" mode="widthFix"></image>
+  <image src="https://samac-media.oss-cn-hangzhou.aliyuncs.com/MPhome/factory1.jpg" mode="widthFix"></image>
+  <image src="https://samac-media.oss-cn-hangzhou.aliyuncs.com/MPhome/factory2.jpg" mode="widthFix"></image>
+  <image src="https://samac-media.oss-cn-hangzhou.aliyuncs.com/MPhome/factory3.jpg" mode="widthFix"></image>
 
 
 
   <view class="footer">
 
-    <image src="http://www.samac.com.cn/MP/images/miniHome/WhiteLogo.png" mode="widthFix" class="footerLogo"></image>
+    <image src="https://samac-media.oss-cn-hangzhou.aliyuncs.com/MPhome/WhiteLogo.png" mode="widthFix" class="footerLogo"></image>
     <view class="footerContainer">
       
       <view class="footerBlock">

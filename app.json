@@ -3,7 +3,13 @@
     "pages/home/home",
     "pages/production/production",
     "pages/service/service",
-    "pages/contact/contact"
+    "pages/contact/contact",
+    "pages/consumer/consumer",
+    "pages/automotive/automotive",
+    "pages/electro/electro",
+    "pages/hydraulics/hydraulics",
+    "pages/other/other",
+    "pages/homeAppliances/homeAppliances"
    
   ],"tabBar": {
     "selectedColor": "#C3271A",

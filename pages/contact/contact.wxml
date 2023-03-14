@@ -1,8 +1,19 @@
 <view class="container">
-  <form catchsubmit="formSubmit" catchreset="formReset">
-    <view class="inputSection">
-      <view>
+  <!-- <view class="styledBox">
+    <view class="redBox"></view>
+    
+    <view class="heading">Feel free to reach out to us</view>
+  </view> -->
 
+  <form catchsubmit="formSubmit" catchreset="formReset">
+    
+    <view class="inputSection">
+     
+      <view class="heading">
+        <label>Feel free to reach out to us</label>
+      </view>
+      <view>
+       
         <label>First Name</label>
         <input placeholder="Enter first name" />
       </view>

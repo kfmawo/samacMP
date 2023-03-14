@@ -1,0 +1,27 @@
+<!--pages/consumer/consumer.wxml-->
+<view class="container">
+  <image class="item" src="https://samac-media.oss-cn-hangzhou.aliyuncs.com/ConsumerGoods.jpg" mode="widthFix"></image>
+
+  <view class="styledBox">
+    <view class="redBox"></view>
+
+    <view class="heading">Consumer Goods</view>
+  </view>
+
+  <view class="content">The development of technology in industrial processes requires increasingly high driving forces. The hydraulic sector is efficient in managing considerable power through components with a reduced weight and size compared to other available technologies and has many advantages from a technical point of view. Products that can be operated even with high loads, fast reversals, energy storage in limited and durable dimensions. Hydraulics, oleodynamics and valves: all long-standing sectors for Samac, of which it has profound know-how.
+
+  </view>
+
+  <!-- <view class="styledBox">
+    <view class="redBox"></view>
+    
+    <view class="heading">Case Studies</view>
+  </view> -->
+  <view class="caseStudy">
+    <image src="https://samac-media.oss-cn-hangzhou.aliyuncs.com/ConsumerGoods.jpg"></image>
+    <view class="redBoxHorizonatal"></view>
+    <view>Case Study Description</view>
+
+  </view>
+
+</view>

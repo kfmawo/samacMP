@@ -1,0 +1,22 @@
+<!--pages/hydraulics/hydraulics.wxml-->
+<!-- <text>pages/hydraulics/hydraulics.wxml</text> -->
+
+<!--pages/electro/electro.wxml-->
+<!-- <text>pages/electro/electro.wxml</text> -->
+
+<view class="container">
+  <image class="item" src="https://samac-media.oss-cn-hangzhou.aliyuncs.com/Hydraulics.jpg" mode="widthFix"></image>
+
+  <view class="styledBox">
+    <view class="redBox"></view>
+    
+    <view class="heading">Hydraulics and Oleodynamics</view>
+  </view>
+
+  <view class="content">
+    The development of technology in industrial processes requires increasingly high driving forces.The hydraulic sector is efficient in managing considerable power through components with reduced weight and size compared to other available technologies and has many advantages from a technical point of view. Products that can be operated even with high loads, fast reversals, and energy storage in limited and durable dimensions. Hydraulics, oligodynamic, and valves: all long-standing sectors for Samac, of which it has profound know-how. The development of technology in industrial processes requires increasingly high driving forces.
+  
+</view>
+  
+  
+</view>

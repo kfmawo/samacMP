@@ -1,0 +1,19 @@
+<!--pages/automotive/automotive.wxml-->
+<!-- <text>pages/automotive/automotive.wxml</text> -->
+
+<view class="container">
+  <image class="item" src="https://samac-media.oss-cn-hangzhou.aliyuncs.com/Electromechanical.jpg" mode="widthFix"></image>
+
+  <view class="styledBox">
+    <view class="redBox"></view>
+    
+    <view class="heading">Automotive</view>
+  </view>
+
+  <view class="content">
+To stand out in a highly challenging sector such as the automotive industry, fundamental requirements such as compliance with tight schedules, cost optimization and a high level of technology for production at high rates and volumes are necessary: since 1975 Samac has been designing and building assembly and testing systems, serving as a reliable, responsive and ready partner for the innovations required by the automotive market.
+  
+</view>
+  
+  
+</view>
